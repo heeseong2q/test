@@ -1,0 +1,13 @@
+img{
+    position: relative;
+    float: left;
+    margin: 150px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid #e0e0e0;
+    overflow: hidden;
+    display: block;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
